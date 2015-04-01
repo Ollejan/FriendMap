@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FriendMap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcomeText">Welcome to FriendMap! The app that show you where all your friends are.</string>
+    <string name="explanationText1">Press the \"List groups\" button to see all available groups...</string>
+    <string name="explanationText2">...or create a new group by entering the groupname and pressing the \"Create group\" button</string>
+    <string name="listGroups">List groups</string>
+    <string name="createGroup">Create group</string>
+    <string name="etCreateGroupHint">Groupname</string>
+    <string name="listGroupsText">Below is a list of all the available groups. Click on one to join it.</string>
+    <string name="etUsernameHint">Username</string>
+    <string name="toastNoUsername">Fill in username</string>
+    <string name="toastNoGroupname">Fill in groupname</string>
+    <string name="toastNoUsernameAndGroupname">Fill in username and groupname</string>
+    <string name="menuText">Click on the buttons below to navigate through the app.</string>
+    <string name="btnShowMap">Show map</string>
+    <string name="btnShowJoinedGroups">Show joined groups</string>
+    <string name="btnShowMessages">Show messages</string>
+    <string name="btnLeaveGroup">Leave group</string>
+    <string name="loggedInAs">Logged in as:</string>
+    <string name="joinedGroupsText">Below are the groups you have joined. Click on one to see the members in that group.</string>
+    <string name="usernameText">Enter your username:</string>
+    <string name="etMessageHint">Message</string>
+    <string name="btnSendMessage">Send</string>
+    <string name="tvMapText">Show members in:</string>
+    <string name="textAll">All</string>
+    <string name="btnTakePicture">Take picture</string>
+    <string name="tvImageInfo">Add some text to your image:</string>
+    <string name="imageTextHint">Imagetext</string>
+    <string name="btnSendImage">Upload image</string>
+    <string name="imageUploadedToastSuccess">Image uploaded</string>
+    <string name="imageUploadedToastFail">Upload failed</string>
+    <string name="alertDialogClose">Close</string>
+
+</resources>

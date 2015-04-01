@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FriendMap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcomeText">Välkommen till FriendMap! Appen som visar dig var alla dina vänner är.</string>
+    <string name="explanationText1">Tryck på \"Lista grupper\"-knappen för att se alla tillgängliga grupper...</string>
+    <string name="explanationText2">...eller skapa en ny grupp genom att skriva in gruppnamn och trycka på \"Skapa grupp\"-knappen</string>
+    <string name="listGroups">Lista grupper</string>
+    <string name="createGroup">Skapa grupp</string>
+    <string name="etCreateGroupHint">Gruppnamn</string>
+    <string name="listGroupsText">Nedan är en lista på alla tillgängliga grupper. Tryck på en för att ansluta dig till den.</string>
+    <string name="etUsernameHint">Användarnamn</string>
+    <string name="toastNoUsername">Fyll i användarnamn</string>
+    <string name="toastNoGroupname">Fyll i gruppnamn</string>
+    <string name="toastNoUsernameAndGroupname">Fyll i användarnamn och gruppnamn</string>
+    <string name="menuText">Tryck på knapparna nedan för att navigera dig runt i appen.</string>
+    <string name="btnShowMap">Visa karta</string>
+    <string name="btnShowJoinedGroups">Visa anslutna grupper</string>
+    <string name="btnShowMessages">Visa meddelanden</string>
+    <string name="btnLeaveGroup">Lämna grupp</string>
+    <string name="loggedInAs">Inloggad som:</string>
+    <string name="joinedGroupsText">Nedan är de grupper du är ansluten till. Tryck på en för att se medlemmarna i den gruppen.</string>
+    <string name="usernameText">Skriv in ditt användarnamn:</string>
+    <string name="etMessageHint">Meddelande</string>
+    <string name="btnSendMessage">Skicka</string>
+    <string name="tvMapText">Visa medlemmar från:</string>
+    <string name="textAll">Alla</string>
+    <string name="btnTakePicture">Ta bild</string>
+    <string name="tvImageInfo">Lägg till lite text till din bild:</string>
+    <string name="imageTextHint">Bildtext</string>
+    <string name="btnSendImage">Ladda upp bild</string>
+    <string name="imageUploadedToastSuccess">Bild uppladdad</string>
+    <string name="imageUploadedToastFail">Uppladdning misslyckades</string>
+    <string name="alertDialogClose">Stäng</string>
+
+</resources>
